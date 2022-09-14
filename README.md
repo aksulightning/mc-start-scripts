@@ -1,2 +1,5 @@
 # mc-start-scripts
-Minecraft Server startup and shutdown script for bash and screen is required. 
+Minecraft Server startup and shutdown scripts for Bash.
+
+Screen is required. 
+sudo apt install screen
